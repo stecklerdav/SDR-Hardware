@@ -1,0 +1,11 @@
+
+
+-  2/06/2025
+   
+   - chequeo de banco 0 Zynq.
+   
+   - colocar un microsuiche y ver entre que dispositivos  suichare por ejemplo
+   
+   QSPI, JTAG, SDCARD
+
+ 

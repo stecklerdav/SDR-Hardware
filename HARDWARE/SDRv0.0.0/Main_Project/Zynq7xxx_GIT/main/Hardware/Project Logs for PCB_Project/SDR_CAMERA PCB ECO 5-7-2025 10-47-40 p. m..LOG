@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=DDR_CLKN Pin=U1-N2
+Removed Pin From Net: NetName=DDR_CLKP Pin=U1-N3
+Removed Pin From Net: NetName=DDR_CLKP Pin=U5-J7
+Removed Pin From Net: NetName=DDR_CLKN Pin=U5-K7
+Change Net Name : Old Net Name=DDR_DQSN0 New Net Name=DDR_DQS0_N
+Change Net Name : Old Net Name=DDR_DQSN1 New Net Name=DDR_DQS1_N
+Change Net Name : Old Net Name=DDR_DQSP0 New Net Name=DDR_DQS0_P
+Change Net Name : Old Net Name=DDR_DQSP1 New Net Name=DDR_DQS1_P
+Added Pin To Net: NetName=DDR_CLK_N Pin=U1-N2
+Added Pin To Net: NetName=DDR_CLK_N Pin=U5-K7
+Added Net: Name=DDR_CLK_N
+Added Pin To Net: NetName=DDR_CLK_P Pin=U1-N3
+Added Pin To Net: NetName=DDR_CLK_P Pin=U5-J7
+Added Net: Name=DDR_CLK_P
+Added Differential Pair: Name=DDR_CLK
+Added Differential Pair: Name=DDR_DQS0
+Added Differential Pair: Name=DDR_DQS1

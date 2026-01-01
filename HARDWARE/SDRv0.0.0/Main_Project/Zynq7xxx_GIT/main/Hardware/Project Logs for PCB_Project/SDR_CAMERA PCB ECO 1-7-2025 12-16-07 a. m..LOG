@@ -1,0 +1,75 @@
+Removed Member From Class: ClassName=ZYNQ Member=R26
+Removed Member From Class: ClassName=DDR3 Member=R56
+Removed Member From Class: ClassName=POWER Member=R80
+Added Pin To Net: NetName=TX1A_P Pin=C49-1
+Added Pin To Net: NetName=TX2A_P Pin=C54-1
+Added Pin To Net: NetName=TX2A_N Pin=C55-1
+Added Pin To Net: NetName=RX1A_P Pin=C60-1
+Added Pin To Net: NetName=RX1A_N Pin=C61-1
+Added Pin To Net: NetName=RX2A_P Pin=C62-1
+Added Pin To Net: NetName=RX2A_N Pin=C63-1
+Added Pin To Net: NetName=GND Pin=J4-G1
+Added Pin To Net: NetName=GND Pin=J4-G2
+Added Pin To Net: NetName=GND Pin=J4-G3
+Added Pin To Net: NetName=GND Pin=J4-G4
+Added Pin To Net: NetName=GND Pin=J5-G1
+Added Pin To Net: NetName=GND Pin=J5-G2
+Added Pin To Net: NetName=GND Pin=J5-G3
+Added Pin To Net: NetName=GND Pin=J5-G4
+Added Pin To Net: NetName=TX1A_P Pin=L2-2
+Added Pin To Net: NetName=TX2A_N Pin=L3-2
+Added Pin To Net: NetName=TX2A_P Pin=L4-2
+Added Pin To Net: NetName=PS_GPIO1 Pin=TP3-TP
+Added Pin To Net: NetName=PL_GPIO1 Pin=TP4-TP
+Added Pin To Net: NetName=PL_GPIO2 Pin=TP6-TP
+Added Pin To Net: NetName=PS_GPIO4 Pin=TP9-TP
+Added Pin To Net: NetName=PS_GPIO5 Pin=TP11-TP
+Added Pin To Net: NetName=PL_GPIO3 Pin=TP12-TP
+Added Member To Class: ClassName=ZYNQ Member=Component R19 Res1
+Added Member To Class: ClassName=DDR3 Member=Component R21 Res1
+Added Member To Class: ClassName=DDR3 Member=Component R22 Res1
+Added Member To Class: ClassName=DDR3 Member=Component R23 Res1
+Added Member To Class: ClassName=DDR3 Member=Component R24 Res1
+Added Member To Class: ClassName=DDR3 Member=Component R25 Res1
+Added Member To Class: ClassName=DDR3 Member=Component R27 Res1
+Added Member To Class: ClassName=DDR3 Member=Component R29 Res1
+Added Member To Class: ClassName=DDR3 Member=Component R31 Res1
+Added Member To Class: ClassName=DDR3 Member=Component R32 Res1
+Added Member To Class: ClassName=DDR3 Member=Component R34 Res1
+Added Member To Class: ClassName=DDR3 Member=Component R36 Res1
+Added Member To Class: ClassName=DDR3 Member=Component R38 Res1
+Added Member To Class: ClassName=DDR3 Member=Component R40 Res1
+Added Member To Class: ClassName=DDR3 Member=Component R41 Res1
+Added Member To Class: ClassName=DDR3 Member=Component R43 Res1
+Added Member To Class: ClassName=DDR3 Member=Component R45 Res1
+Added Member To Class: ClassName=DDR3 Member=Component R47 Res1
+Added Member To Class: ClassName=DDR3 Member=Component R49 Res1
+Added Member To Class: ClassName=DDR3 Member=Component R51 Res1
+Added Member To Class: ClassName=DDR3 Member=Component R53 Res1
+Added Member To Class: ClassName=DDR3 Member=Component R54 Res1
+Added Member To Class: ClassName=DDR3 Member=Component R55 Res1
+Added Member To Class: ClassName=POWER Member=Component R57 Res1
+Added Member To Class: ClassName=POWER Member=Component R58 Res1
+Added Member To Class: ClassName=POWER Member=Component R60 Res1
+Added Member To Class: ClassName=POWER Member=Component R62 Res1
+Added Member To Class: ClassName=POWER Member=Component R63 Res1
+Added Member To Class: ClassName=POWER Member=Component R65 Res1
+Added Member To Class: ClassName=POWER Member=Component R66 Res1
+Added Member To Class: ClassName=POWER Member=Component R67 Res1
+Added Member To Class: ClassName=POWER Member=Component R68 Res1
+Added Member To Class: ClassName=POWER Member=Component R69 Res1
+Added Member To Class: ClassName=POWER Member=Component R70 Res1
+Added Member To Class: ClassName=POWER Member=Component R71 Res1
+Added Member To Class: ClassName=POWER Member=Component R72 Res1
+Added Member To Class: ClassName=POWER Member=Component R73 Res1
+Added Member To Class: ClassName=POWER Member=Component R75 Res1
+Added Member To Class: ClassName=POWER Member=Component R76 Res1
+Added Member To Class: ClassName=USB Member=Component R78 Res1
+Added Member To Class: ClassName=USB Member=Component R79 Res1
+Added Member To Class: ClassName=USB Member=Component R81 Res1
+Added Member To Class: ClassName=USB Member=Component R84 0ZCJ0050AF2E
+Added Member To Class: ClassName=USB Member=Component R85 Res1
+Added Member To Class: ClassName=USB Member=Component R86 Res1
+Added Member To Class: ClassName=USB Member=Component R88 Res1
+Added Member To Class: ClassName=USB Member=Component R90 Res1
+Added Member To Class: ClassName=USB Member=Component R92 Res1

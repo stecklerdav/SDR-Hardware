@@ -1,0 +1,108 @@
+Added Component: Designator=TP16(KEYSTONE_5000)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/5000/Keystone/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "5000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Test Point Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/5000/Keystone/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP17(KEYSTONE_5000)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/5000/Keystone/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "5000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Test Point Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/5000/Keystone/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP18(KEYSTONE_5000)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/5000/Keystone/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "5000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Test Point Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/5000/Keystone/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP19(KEYSTONE_5000)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/5000/Keystone/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "5000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Test Point Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/5000/Keystone/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP20(KEYSTONE_5000)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/5000/Keystone/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "5000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Test Point Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/5000/Keystone/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP21(KEYSTONE_5000)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/5000/Keystone/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "5000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Test Point Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/5000/Keystone/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP22(KEYSTONE_5000)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/5000/Keystone/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "5000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Test Point Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/5000/Keystone/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP23(KEYSTONE_5000)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/5000/Keystone/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "5000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Test Point Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/5000/Keystone/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP24(KEYSTONE_5000)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/5000/Keystone/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "5000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Test Point Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/5000/Keystone/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VDD_GPO Pin=TP16-TP
+Added Pin To Net: NetName=AD9363_GPO_1 Pin=TP18-TP
+Added Pin To Net: NetName=GND Pin=TP19-TP
+Added Pin To Net: NetName=AD9363_GPO_2 Pin=TP20-TP
+Added Pin To Net: NetName=AD9363_GPO_3 Pin=TP21-TP
+Added Pin To Net: NetName=AD9363_AUXDAC1 Pin=TP22-TP
+Added Pin To Net: NetName=AD9363_AUXDAC2 Pin=TP23-TP
+Added Pin To Net: NetName=PS_GPIO0 Pin=U1-D8
+Added Pin To Net: NetName=IO_02_34_AD9361_RST Pin=U1-P9
+Added Net: Name=IO_02_34_AD9361_RST
+Added Pin To Net: NetName=IO_L01_34_FB_CLK Pin=U1-P10
+Added Net: Name=IO_L01_34_FB_CLK
+Added Pin To Net: NetName=IO_L08_34_CTRL_OUT0 Pin=U6-D4
+Added Net: Name=IO_L08_34_CTRL_OUT0
+Added Pin To Net: NetName=IO_L08_34_CTRL_OUT1 Pin=U6-E4
+Added Net: Name=IO_L08_34_CTRL_OUT1
+Added Pin To Net: NetName=IO_L09_34_TX_FRAME Pin=U6-G9
+Added Net: Name=IO_L09_34_TX_FRAME
+Added Pin To Net: NetName=IO_L10_34_EN_AGC Pin=U1-L13
+Added Net: Name=IO_L10_34_EN_AGC
+Added Pin To Net: NetName=IO_L11_34_ENABLE Pin=U1-K12
+Added Net: Name=IO_L11_34_ENABLE
+Added Pin To Net: NetName=IO_L11_34_TXNRX Pin=U6-H4
+Added Net: Name=IO_L11_34_TXNRX
+Added Pin To Net: NetName=IO_L13_34_CTRL_OUT2 Pin=U1-N11
+Added Net: Name=IO_L13_34_CTRL_OUT2
+Added Pin To Net: NetName=IO_L13_34_CTRL_OUT3 Pin=U1-N12
+Added Net: Name=IO_L13_34_CTRL_OUT3
+Added Pin To Net: NetName=IO_L21_34_CTRL_OUT4 Pin=U6-F6
+Added Net: Name=IO_L21_34_CTRL_OUT4
+Added Pin To Net: NetName=IO_L21_34_CTRL_OUT5 Pin=U6-F5
+Added Net: Name=IO_L21_34_CTRL_OUT5
+Added Pin To Net: NetName=IO_L22_34_CTRL_OUT6 Pin=U1-N7
+Added Net: Name=IO_L22_34_CTRL_OUT6
+Added Pin To Net: NetName=IO_L22_34_CTRL_OUT7 Pin=U6-G4
+Added Net: Name=IO_L22_34_CTRL_OUT7
+Added Member To Class: ClassName=RF Member=Component TP16 5000
+Added Member To Class: ClassName=RF Member=Component TP17 5000
+Added Member To Class: ClassName=RF Member=Component TP18 5000
+Added Member To Class: ClassName=RF Member=Component TP19 5000
+Added Member To Class: ClassName=RF Member=Component TP20 5000
+Added Member To Class: ClassName=RF Member=Component TP21 5000
+Added Member To Class: ClassName=RF Member=Component TP22 5000
+Added Member To Class: ClassName=RF Member=Component TP23 5000
+Added Member To Class: ClassName=RF Member=Component TP24 5000

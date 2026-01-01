@@ -1,0 +1,6 @@
+Record=TopLevelDocument|FileName=TOP_Design.SchDoc
+Record=SheetSymbol|SourceDocument=TOP_Design.SchDoc|Designator=DDR3|SchDesignator=DDR3|FileName=DDR3.SchDoc|SymbolType=Normal|RawFileName=DDR3.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=TOP_Design.SchDoc|Designator=POWER|SchDesignator=POWER|FileName=Main_Power.SchDoc|SymbolType=Normal|RawFileName=Main_Power.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=TOP_Design.SchDoc|Designator=RF|SchDesignator=RF|FileName=RF.SchDoc|SymbolType=Normal|RawFileName=RF.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=TOP_Design.SchDoc|Designator=USB|SchDesignator=USB|FileName=USB INTERFACES.SchDoc|SymbolType=Normal|RawFileName=USB INTERFACES.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=TOP_Design.SchDoc|Designator=ZYNQ|SchDesignator=ZYNQ|FileName=ZynQ7xxx.SchDoc|SymbolType=Normal|RawFileName=ZynQ7xxx.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
